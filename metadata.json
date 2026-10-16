@@ -1,0 +1,6 @@
+{
+  "name": "For Aya — Mohamed's Sincere Apology",
+  "description": "An emotional, interactive animated apology website for Aya from Mohamed, featuring cinematic storytelling, soft rain, and a magical starlight journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
