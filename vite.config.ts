@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(({ command }) => {
   const base = command === 'build' ? '/ayaaaaaaa/' : '/';
   return {
+    base,
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
